@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/news-portal/static/css/main.6de2448a.css",
-    "main.js": "/news-portal/static/js/main.57b530ce.js",
+    "main.js": "/news-portal/static/js/main.e69e5e8e.js",
     "static/js/787.de2f0380.chunk.js": "/news-portal/static/js/787.de2f0380.chunk.js",
     "static/media/TTSevers-Medium.ttf": "/news-portal/static/media/TTSevers-Medium.79e6130073f218be25dc.ttf",
     "static/media/promo_main_img.png": "/news-portal/static/media/promo_main_img.1d0a227679f6e36a9f26.png",
@@ -40,11 +40,11 @@
     "static/media/LiveDot.svg": "/news-portal/static/media/LiveDot.9bbacfce69a0e1a3289c1136da8ea14b.svg",
     "static/media/CapacityIcon.svg": "/news-portal/static/media/CapacityIcon.175cac287c95d64b3cb9c31b725798c2.svg",
     "main.6de2448a.css.map": "/news-portal/static/css/main.6de2448a.css.map",
-    "main.57b530ce.js.map": "/news-portal/static/js/main.57b530ce.js.map",
+    "main.e69e5e8e.js.map": "/news-portal/static/js/main.e69e5e8e.js.map",
     "787.de2f0380.chunk.js.map": "/news-portal/static/js/787.de2f0380.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6de2448a.css",
-    "static/js/main.57b530ce.js"
+    "static/js/main.e69e5e8e.js"
   ]
 }
